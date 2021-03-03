@@ -1,0 +1,22 @@
+{
+  "private": "true",
+
+  "name": "deep-learning-for-scratch-in-js",
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenbuHase/Deep-Learning-for-Scratch-in-JavaScript.git"
+  },
+  "author": "Genbu Hase (https://genbuhase.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GenbuHase/Deep-Learning-for-Scratch-in-JavaScript/issues"
+  },
+  "homepage": "https://github.com/GenbuHase/Deep-Learning-for-Scratch-in-JavaScript#readme"
+}
